@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/boale/quoteAppAPI/compare/v1.0.1...v1.0.2) (2020-12-20)
+
+
+### Bug Fixes
+
+* ignore code-climate env var ([68aecd5](https://github.com/boale/quoteAppAPI/commit/68aecd5e77f04f15f801235c9ba0bf810c56d551))
+
 ### [1.0.1](https://github.com/boale/quoteAppAPI/compare/v1.0.0...v1.0.1) (2020-12-20)
 
 
