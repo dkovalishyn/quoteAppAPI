@@ -18,8 +18,8 @@ RUN apk add --update
 RUN apk --no-cache add ca-certificates unzip wget curl bash
 
 # Set up CodeClimate reporter.
-RUN curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > cc-test-reporter
-RUN chmod +x cc-test-reporter
+# RUN curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > cc-test-reporter
+# RUN chmod +x cc-test-reporter
 
 # Use changes to package.json to force Docker not to use the cache
 #   when we change our application's nodejs dependencies:
