@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     DOCKER_REPOSITORY_URI: ""
-    CODE_CLIMATE_REPORTER_ID: ""
+#    CODE_CLIMATE_REPORTER_ID: ""
     GIT_BRANCH: "master"
     CI_NAME: CodeBuild
 
